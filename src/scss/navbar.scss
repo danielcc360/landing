@@ -1,0 +1,16 @@
+$bg-color: rgb(39, 131, 130);
+$text-nav-color: white;
+
+.navbar {
+    background-color: $bg-color;
+    color: $bg-color;
+    .navbar-brand {
+        color: $text-nav-color;
+    }
+    .navbar-nav .nav-link {
+        color: $text-nav-color;
+    }
+    .nav-link.disabled {
+        color: rgba(255, 255, 255, 0.231);
+    }
+}

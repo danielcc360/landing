@@ -1,0 +1,13 @@
+/*!**************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss ***!
+  \**************************************************************************************************************/
+.navbar {
+  background-color: #278382;
+  color: #278382; }
+  .navbar .navbar-brand {
+    color: white; }
+  .navbar .navbar-nav .nav-link {
+    color: white; }
+  .navbar .nav-link.disabled {
+    color: rgba(255, 255, 255, 0.231); }
+
